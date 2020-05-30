@@ -15,4 +15,4 @@ export default function WelcomePage() {
       <Link to={'/characters'}>See Characters</Link>
     </section>
   );
-}
+} 

@@ -33,7 +33,7 @@ export default function CharacterList() {
   return (
     <section className="character-list">
       <h2>Character List</h2>
-      <Link className="main-buttons" to={"/"}>
+      <Link to={"/"}>
         Home
       </Link>
       <SearchForm search={search} characters={characters} />

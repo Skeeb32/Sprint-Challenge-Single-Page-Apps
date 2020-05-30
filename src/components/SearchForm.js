@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function SearchForm(props) {
-  const [searchTerm, setSearchTerm] = useState("");
+  // const [searchTerm, setSearchTerm] = useState("");
   const [results, setResults] = useState([]);
 
   const handleChanges = e => {
@@ -28,6 +28,7 @@ function SearchForm(props) {
           id="character"
           placeholder="Search"
         ></input>
+        <button>Submit</button>
       </form>
     </section>
   );
