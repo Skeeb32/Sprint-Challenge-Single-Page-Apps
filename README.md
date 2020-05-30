@@ -1,4 +1,4 @@
-# Sprint Challenge: Single Page Applications
+# Sprint Challenge: Single Page Applications!
 
 ## Rick & Morty Edition
 
@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-side routing simply runs this process in the browser, using JavaScript for the logic and some JS based template engine or other such approaches to render the pages. It is typically used in single page applications. There also isn't a refresh flash that happens when you reload the page.
 
 ## Project Set Up
 
